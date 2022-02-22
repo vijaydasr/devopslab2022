@@ -1,4 +1,5 @@
 class Customer {
-  private Integer customerId;
-  private String customerName;
+	private String address;
+	private Integer customerId;
+	private String customerName;
 }
